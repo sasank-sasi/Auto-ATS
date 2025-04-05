@@ -1,0 +1,43 @@
+[
+  {
+    "name": "resume.pdf",
+    "match_score": 80.0,
+    "matching_skills": [
+      "Python",
+      "FastAPI",
+      "Docker"
+    ],
+    "missing_skills": [],
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "file_name": "resume.pdf"
+  },
+  {
+    "name": "resume.pdf",
+    "match_score": 60.0,
+    "matching_skills": [
+      "Python",
+      "Docker"
+    ],
+    "missing_skills": [
+      "FastAPI"
+    ],
+    "experience_match": 50.0,
+    "education_match": 80.0,
+    "file_name": "Resume1.pdf"
+  },
+  {
+    "name": "resume.pdf",
+    "match_score": 60.0,
+    "matching_skills": [
+      "Python",
+      "Docker"
+    ],
+    "missing_skills": [
+      "FastAPI"
+    ],
+    "experience_match": 0.0,
+    "education_match": 80.0,
+    "file_name": "resume2 .pdf"
+  }
+]

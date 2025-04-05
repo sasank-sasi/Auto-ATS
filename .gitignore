@@ -1,0 +1,12 @@
+.venv
+.env
+token.pickle
+.temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+credentials.json
+download/
+Assessments_Dataset/
